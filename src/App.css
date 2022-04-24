@@ -148,12 +148,13 @@
   top: 0%;
   width: 100%;
 }
+
 @media only screen and (max-width: 800px) {
   #logo {
     display: contents;
     text-align: center;
   }
-  #logo > h2 {
+  #logo > h2 { 
     margin: 2%;
   }
 }
